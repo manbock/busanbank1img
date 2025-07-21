@@ -8,9 +8,10 @@
 
 
 
+<img width="1558" height="1213" alt="카드포스터3" src="https://github.com/user-attachments/assets/95c1c379-aa34-4406-84f3-0768c0627bbc" />
 
 
-<img width="1687" height="1420" alt="카드포스터3" src="https://github.com/user-attachments/assets/99d57d3b-c275-45c8-ad0a-8bb84475cdb6" />
+
 
 
 
